@@ -11,7 +11,7 @@ recently, =toc-org=, actually, works in [[#markdown-support][markdown]], too!
 *NOTE:* Previous name of the package is =org-toc=. It was changed because of a
 name conflict with one of the org contrib modules.
 
-* Table of Contents                                                        :TOC:QUOTE:
+* Table of Contents                                                                               :TOC:QUOTE:
 #+BEGIN_QUOTE
 - [[#about][About]]
 - [[#installation][Installation]]
